@@ -76,8 +76,8 @@ This repository uses [Git Large File Storage (Git LFS)](https://git-lfs.github.c
 3. **Clone this repository:**
 
     ```sh
-    git clone <repo-url>
-    cd <repo-directory>
+    git clone https://github.com/rafalkarczewski/diffusion-density.git
+    cd diffusion-density
     ```
 
 4. **Fetch all LFS files** (if needed):
